@@ -21,3 +21,4 @@
 * [Funções para testes de Aceitação](http://codeception.com/docs/modules/WebDriver)
 * [Codeception com Classes](http://codeception.com/docs/07-AdvancedUsage)
 * [Cobertura de Código](http://codeception.com/docs/11-Codecoverage)
+* [Webinar TDD - Wesley](http://connect72578937.adobeconnect.com/p4c05w5qya2/)
