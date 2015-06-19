@@ -22,3 +22,4 @@
 * [Codeception com Classes](http://codeception.com/docs/07-AdvancedUsage)
 * [Cobertura de Código](http://codeception.com/docs/11-Codecoverage)
 * [Webinar TDD - Wesley](http://connect72578937.adobeconnect.com/p4c05w5qya2/)
+* [Exemplo TDD](https://www.youtube.com/watch?v=08tB4iogvCc)
