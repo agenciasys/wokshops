@@ -11,3 +11,13 @@
 
 ## Workflow
 * [Workflow Front-end](http://agenciasys.github.io/workshop-workflow-front-end/)
+
+## Testes Automatizados (TDD e BDD)
+* [Instalação Codeception] http://codeception.com/quickstart
+* [Os 3 tipos de teste] http://codeception.com/docs/01-Introduction
+* [Testes unitários (TDD)] http://codeception.com/docs/06-UnitTests
+* [Assertions] http://codeception.com/docs/modules/Asserts
+* [Testes de Aceitação (BDD)] http://codeception.com/docs/04-AcceptanceTests
+* [Funções para testes de Aceitação] http://codeception.com/docs/modules/WebDriver
+* [Codeception com Classes] http://codeception.com/docs/07-AdvancedUsage
+* [Cobertura de Código] http://codeception.com/docs/11-Codecoverage
